@@ -17,18 +17,18 @@ Shows all stored student records.
 ### ✔ Grade Calculation
 Grades are assigned automatically based on marks:
 
-A → 90+
-B → 75–89
-C → 60–74
-D → <60
+◦A → 90+
+◦B → 75–89
+◦C → 60–74
+◦D → <60
 
 ## 🧰 Concepts Used
-◦ Abstract Class (Person)
-◦ Inheritance (Student extends Person)
-◦ Interface (RecordActions)
-◦ Polymorphism (Dynamic Method Dispatch)
-◦ Method Overloading and Overriding
-◦ HashMap for efficient student storage
+◦Abstract Class (Person)
+◦Inheritance (Student extends Person)
+◦Interface (RecordActions)
+◦Polymorphism (Dynamic Method Dispatch)
+◦Method Overloading and Overriding
+◦HashMap for efficient student storage
 
 ## 📂 File Structure
 Person.java
@@ -58,10 +58,10 @@ Enter Choice:
 ## 🎯 Learning Outcomes
 This project helps you understand:
 
-◦ Class design and object creation
-◦ Inheritance and abstract classes
-◦ Working with interfaces
-◦ Using HashMap for record management
-◦ Implementing polymorphism
-◦ Writing modular, clean Java code
+◦Class design and object creation
+◦Inheritance and abstract classes
+◦Working with interfaces
+◦Using HashMap for record management
+◦Implementing polymorphism
+◦Writing modular, clean Java code
 
